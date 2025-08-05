@@ -30,11 +30,17 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 - [Awesome Papers](#awesome-papers)
   - [Data](#data)
+      - [Collection](#collection)
+      - [Synthesis](#synthesis)
+      - [Annotation](#annotation)
+      - [Cleaning](#cleaning)
   - [Tasks](#tasks)
   - [Evaluation](#evaluation)
 - [Thanks](#thanks)
 - [Citation](#citation)
 
-<h2 id="awesome-papers"> 👑 Awesome Papers </h2>
+<h2 align="center" id="awesome-papers"> 👑 Awesome Papers 📜</h2>
 
-<h3 id="data"> <img src="assets/data.svg" alt="Icon" width="20" style="vertical-align:middle"/> Data </h3>
+<h3 id="data"> Data </h3>
+
+<h4 id="collection"> Collection </h4>
