@@ -1,6 +1,6 @@
 <h1 align="center">✨✨✨ Empowering MLLMs with External Tools: A Survey ✨✨✨</h1>
 
-<p align="center"><em>Curated list of empowering Multimodal Large Language Models (MLLMs) with external tools, from the perspectives of </em><br><strong>Data, Tasks, and Evaluation.</strong></p>
+<p align="center"><em>Curated list of empowering Multimodal Large Language Models (MLLMs) with external tools, from the perspectives of </em><br><strong>Data, Tasks, and Evaluation. </strong> (🚧 Under Construction)</p>
 
 <p align="center">
     <a href="https://arxiv.org/abs/2502.14881"><img src="https://img.shields.io/badge/arXiv-2502.14881-b31b1b.svg" alt="arXiv Badge"></a>
@@ -39,12 +39,59 @@ Through this survey, we aim to underscore the transformative potential of extern
       - [Annotation](#annotation)
       - [Cleaning](#cleaning)
   - [Tasks](#tasks)
+      - [Multimodal Retrieval Augmented Generation](#mrag)
+      - [Multimodal Reasoning](#mr)
+      - [Multimodal Hallucination](#mh)
+      - [Multimodal Safety](#ms)
+      - [Multimodal Agents](#ma)
+      - [Video Perception](#vp)
   - [Evaluation](#evaluation)
-- [Thanks](#thanks)
-- [Citation](#citation)
+      - [Keyword Extraction](#ke)
+      - [Embedding-based Evaluation](#ee)
+      - [MLLM-based Evaluation](#me)
+      - [Evaluation Platform](#ep)
+  - [Related Surveys](#rs)
 
-<h2 align="center" id="awesome-papers"> 👑 Awesome Papers 📜</h2>
+<h2 align="center" id="awesome-papers"> 👑 Awesome Papers 👑</h2>
 
-<h3 id="data"> Data </h3>
+<h3 align="center" id="data"> Data </h3>
 
 <h4 id="collection"> Collection </h4>
+
+<h4 id="synthesis"> Synthesis </h4>
+
+<h4 id="annotation"> Annotation </h4>
+
+<h4 id="cleaning"> Cleaning </h4>
+
+
+<h3 id="tasks" align="center"> Tasks </h3>
+
+<h4 id="mrag"> Multimodal Retrieval Augmented Generation </h4>
+
+<h4 id="mr"> Multimodal Reasoning </h4>
+
+<h4 id="mh"> Multimodal Hallucination </h4>
+
+<h4 id="ms"> Multimodal Safety </h4>
+
+<h4 id="ma"> Multimodal Agents </h4>
+
+<h4 id="vp"> Video Perception </h4>
+
+
+
+<h3 id="evaluation" align="center"> Evaluation </h3>
+
+<h4 id="ke"> Keyword Extraction </h4>
+
+<h4 id="ee"> Embedding-based Evaluation </h4>
+
+<h4 id="me"> MLLM-based Evaluation </h4>
+
+<h4 id="ep"> Evaluation Platform </h4>
+
+
+<h3 id="rs" align="center"> Related Surveys </h3>
+
+<h2 align="center"> 📚 Citation 📚</h2>
