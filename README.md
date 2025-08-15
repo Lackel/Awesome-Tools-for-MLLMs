@@ -151,6 +151,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 <h3 id="tasks" align="center"> Tasks </h3>
 
 <h4 id="mrag"> Multimodal Retrieval Augmented Generation </h4>
+<h5> Knowledge Retrieval </h5>
 <ul>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
