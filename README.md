@@ -194,27 +194,40 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h5> Knowledge Utilization </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2211.12561"><b>Retrieval-augmented multimodal language modeling</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.15346"><b>Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models</b></a></li>
+<li><a href="https://ieeexplore.ieee.org/document/10535103/"><b>UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.20834"><b>Retrieval meets reasoning: Even high-school textbook knowledge benefits multimodal reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.10704"><b>VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.11321"><b>Self-adaptive Multimodal Retrieval-Augmented Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.12065"><b>Ragar, your falsehood radar: Rag-augmented reasoning for political fact-checking using multimodal large language models</b></a></li>
+<li><a href="https://www.techrxiv.org/users/833309/articles/1229891-iterative-retrieval-augmentation-for-multi-modal-knowledge-integration-and-generation"><b>Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.01549"><b>VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.15406"><b>Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.16863"><b>Augmenting multimodal llms with self-reflective tokens for knowledge-based visual question answering</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.13085"><b>Mmed-rag: Versatile multimodal rag system for medical vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.01120"><b>Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.15041"><b>mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA</b></a></li>
+<li><a href="https://aclanthology.org/2024.emnlp-main.62/"><b>Rule: Reliable multimodal rag for factuality in medical vision language models</b></a></li>
+</ul>
+
+<h4 id="mr"> 2. Multimodal Reasoning </h4>
+<h5> Image Reasoning </h5>
+<ul>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 </ul>
 
-<h4 id="mr"> 2. Multimodal Reasoning </h4>
+<h5> Video Reasoning </h5>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
+
+
+<h5> Audio Reasoning </h5>
 <ul>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
