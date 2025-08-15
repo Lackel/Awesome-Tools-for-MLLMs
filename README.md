@@ -214,27 +214,85 @@ Through this survey, we aim to underscore the transformative potential of extern
 <h4 id="mr"> 2. Multimodal Reasoning </h4>
 <h5> Image Reasoning </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2506.09736"><b>Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.05452"><b>ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2504.05599"><b>Skywork r1v: Pioneering multimodal reasoning with chain-of-thought</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.05255"><b>Cmmcot: Enhancing complex multi-image comprehension via multi-modal chain-of-thought and memory augmentation</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.05236"><b>Unified reward model for multimodal understanding and generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.10391"><b>Mm-rlhf: The next step forward in multimodal llm alignment</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.10615"><b>R1-onevision: Advancing generalized multimodal reasoning through cross-modal formalization</b></a></li>
+<li><a href="https://arxiv.org/html/2411.10440v1"><b>Llava-o1: Let vision language models reason step-by-step</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.16999"><b>Visual cot: Advancing multi-modal language models with a comprehensive dataset and benchmark for chain-of-thought reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.16198"><b>Improve vision language model chain-of-thought reasoning</b></a></li>
+<li><a href="https://arxiv.org/html/2501.12368v1"><b>InternLM-XComposer2. 5-Reward: A Simple Yet Effective Multi-Modal Reward Model</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.14432"><b>Insight-v: Exploring long-chain visual reasoning with multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.12937"><b>R1-vl: Learning to reason with multimodal large language models via step-wise group relative policy optimization</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.07065"><b>Boosting the generalization and reasoning of vision language models with curriculum reinforcement learning</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.14835"><b>Progressive multimodal reasoning via active retrieval</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.03548"><b>Perception tokens enhance visual reasoning in multimodal language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.03622"><b>Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models</b></a></li>
+<li><a href="https://proceedings.mlr.press/v260/jia25b.html"><b>DCoT: Dual Chain-of-Thought Prompting for Large Multimodal Models</b></a></li>
+<li><a href="https://aclanthology.org/2024.acl-long.432/"><b>Chain-of-exemplar: enhancing distractor generation for multimodal educational question generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.12488"><b>Dettoolchain: A new prompting paradigm to unleash detection ability of mllm</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.16033"><b>Cantor: Inspiring multimodal chain-of-thought of mllm</b></a></li>
+<li><a href="https://arxiv.org/abs/2305.16582"><b>Beyond chain-of-thought, effective graph-of-thought reasoning in language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.17076"><b>Compositional chain-of-thought prompting for large multimodal models</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.01093"><b>Cotdet: Affordance knowledge prompting for task driven object detection</b></a></li>
 </ul>
 
 <h5> Video Reasoning </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://ieeexplore.ieee.org/document/10376648/"><b>Intentqa: Context-aware video intent reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2307.16368"><b>Antgpt: Can large language models help long-term action anticipation from videos?</b></a></li>
+<li><a href="https://arxiv.org/abs/2305.13903"><b>Let's think frame by frame with vip: A video infilling and prediction dataset for evaluating video chain-of-thought</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.03230"><b>Video-of-thought: Step-by-step video reasoning from perception to cognition</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.11333"><b>Hallucination mitigation prompts long-term video understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2408.12009"><b>Cardiff: Video salient object ranking chain of thought reasoning for saliency prediction with diffusion</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.02570"><b>TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos</b></a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3696410.3714559"><b>Following clues, approaching the truth: Explainable micro-video rumor detection via chain-of-thought reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.06428"><b>CoS: Chain-of-Shot Prompting for Long Video Understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.21776"><b>Video-r1: Reinforcing video reasoning in mllms</b></a></li>
+<li><a href="https://arxiv.org/abs/2505.12434"><b>VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2505.03318"><b>Unified multimodal chain-of-thought reward model through reinforcement fine-tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.13444"><b>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</b></a></li>
 </ul>
 
 
 <h5> Audio Reasoning </h5>
 <ul>
+<li><a href="https://arxiv.org/abs/2304.12995"><b>Audiogpt: Understanding and generating speech, music, sound, and talking head</b></a></li>
+<li><a href="https://arxiv.org/html/2409.19510v1"><b>CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.10937"><b>Leveraging Chain of Thought towards Empathetic Spoken Dialogue without Corresponding Question-Answering Data</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.10676"><b>Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.02318"><b>Audio-reasoner: Improving reasoning capability in large audio language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.08540"><b>Mellow: a small audio language model for reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.11197"><b>Reinforcement learning outperforms supervised fine-tuning: A case study on audio question answering</b></a></li>
+</ul>
+
+
+
+<h4 id="mh"> 3. Multimodal Hallucination </h4>
+<h5> Hallucination Cause Analysis </h5>
+<ul>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 </ul>
 
-<h4 id="mh"> 3. Multimodal Hallucination </h4>
+<h5> Hallucination Detection </h5>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
+
+
+<h5> Hallucination Mitigation </h5>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
 
 <h4 id="ms"> 4. Multimodal Safety </h4>
 
