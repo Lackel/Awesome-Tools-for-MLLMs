@@ -54,7 +54,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h2 align="center" id="awesome-papers"> 👑 Awesome Papers 👑</h2>
 
-<h3 align="center" id="data"> Data </h3>
+<h3 align="center" id="data"> 🥑Data </h3>
 
 <h4 id="collection"> Data Collection </h4>
 <ul>
@@ -148,17 +148,81 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 
 
-<h3 id="tasks" align="center"> Tasks </h3>
+<h3 id="tasks" align="center"> 🫐Tasks </h3>
 
 <h4 id="mrag"> Multimodal Retrieval Augmented Generation </h4>
 <h5> Knowledge Retrieval </h5>
 <ul>
+<li><a href="https://arxiv.org/abs/2102.05918"><b>Scaling up visual and vision-language representation learning with noisy text supervision</b></a></li>
+<li><a href="https://arxiv.org/abs/2103.00020"><b>Learning transferable visual models from natural language supervision</b></a></li>
+<li><a href="https://arxiv.org/abs/2201.12086"><b>Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.16855"><b>GME: Improving Universal Multimodal Retrieval by Multimodal LLMs</b></a></li>
+<li><a href="https://arxiv.org/abs/2112.09118"><b>Unsupervised dense information retrieval with contrastive learning</b></a></li>
+<li><a href="https://arxiv.org/abs/2302.03084"><b>Pic2word: Mapping pictures to words for zero-shot composed image retrieval</b></a></li>
+<li><a href="https://aclanthology.org/2024.findings-acl.771/"><b>Xl-headtags: Leveraging multimodal retrieval augmentation for the multilingual generation of news headlines and tags</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.12735"><b>Echosight: Advancing visual-language models with wiki knowledge</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.10153"><b>Improving medical multi-modal contrastive learning with expert annotations</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.01549"><b>VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos</b></a></li>
+<li><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Ma_DrVideo_Document_Retrieval_Based_Long_Video_Understanding_CVPR_2025_paper.pdf"><b>DrVideo: Document Retrieval Based Long Video Understanding</b></a></li>
+<li><a href="https://www.ijcai.org/proceedings/2024/136"><b>Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval</b></a></li>
+<li><a href="https://aclanthology.org/2024.emnlp-main.559/"><b>OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.16500"><b>Speech Retrieval-Augmented Generation without Automatic Speech Recognition</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.14457"><b>VISA: Retrieval Augmented Generation with Visual Source Attribution</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.09836"><b>Recap: Retrieval-Augmented Audio Captioning</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.14727"><b>WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.05141"><b>Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation</b></a></li>
+</ul>
+
+<h5> Knowledge Reranking </h5>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
+
+<h5> Knowledge Utilization </h5>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 </ul>
 
 <h4 id="mr"> Multimodal Reasoning </h4>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
 
 <h4 id="mh"> Multimodal Hallucination </h4>
 
@@ -170,7 +234,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 
 
-<h3 id="evaluation" align="center"> Evaluation </h3>
+<h3 id="evaluation" align="center"> 🍒Evaluation </h3>
 
 <h4 id="ke"> Keyword Extraction </h4>
 
@@ -181,6 +245,6 @@ Through this survey, we aim to underscore the transformative potential of extern
 <h4 id="ep"> Evaluation Platform </h4>
 
 
-<h3 id="rs" align="center"> Related Surveys </h3>
+<h3 id="rs" align="center"> 🥭Related Surveys </h3>
 
 <h2 align="center"> 📚 Citation 📚</h2>
