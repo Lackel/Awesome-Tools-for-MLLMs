@@ -34,10 +34,10 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 - [Awesome Papers](#awesome-papers)
   - [Data](#data)
-      - [Collection](#collection)
-      - [Synthesis](#synthesis)
-      - [Annotation](#annotation)
-      - [Cleaning](#cleaning)
+      - [Data Collection](#collection)
+      - [Data Synthesis](#synthesis)
+      - [Data Annotation](#annotation)
+      - [Data Cleaning](#cleaning)
   - [Tasks](#tasks)
       - [Multimodal Retrieval Augmented Generation](#mrag)
       - [Multimodal Reasoning](#mr)
@@ -56,7 +56,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h3 align="center" id="data"> 🥑Data </h3>
 
-<h4 id="collection"> Data Collection </h4>
+<h4 id="collection"> 1. Data Collection </h4>
 <ul>
 <li><a href="https://arxiv.org/abs/2402.14683"><b>Visual hallucinations of multi-modal large language models</b></a></li>
 <li><a href="https://aclanthology.org/2024.emnlp-main.904/"><b>The Instinctive Bias: Spurious Images lead to Illusion in MLLMs</b></a></li>
@@ -78,7 +78,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 <li><a href="https://dl.acm.org/doi/10.5555/2986459.2986587"><b>Im2text: Describing images using 1 million captioned photographs</b></a></li>
 </ul>
 
-<h4 id="synthesis"> Data Synthesis </h4>
+<h4 id="synthesis"> 2. Data Synthesis </h4>
 <ul>
 <li><a href="https://arxiv.org/abs/2410.09962"><b>Longhalqa: Long-context hallucination evaluation for multimodal large language models</b></a></li>
 <li><a href="https://arxiv.org/abs/2406.10900"><b>Autohallusion: Automatic generation of hallucination benchmarks for vision-language models</b></a></li>
@@ -102,7 +102,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 <li><a href="https://aclanthology.org/2024.emnlp-main.1016/"><b>Investigating and mitigating object hallucinations in pretrained vision-language (clip) models</b></a></li>
 </ul>    
 
-<h4 id="annotation"> Data Annotation </h4>
+<h4 id="annotation"> 3. Data Annotation </h4>
 <ul>
 <li><a href="https://arxiv.org/abs/2406.14056"><b>Vga: Vision gui assistant-minimizing hallucinations through image-centric fine-tuning</b></a></li>
 <li><a href="https://arxiv.org/abs/2404.02904"><b>ALOHa: A new measure for hallucination in captioning models</b></a></li>
@@ -123,7 +123,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 <li><a href="https://arxiv.org/abs/2209.06794"><b>Pali: A jointly-scaled multilingual language-image model</b></a></li>
 </ul>
 
-<h4 id="cleaning"> Data Cleaning </h4>
+<h4 id="cleaning"> 4. Data Cleaning </h4>
 <ul>
 <li><a href="https://arxiv.org/abs/2406.16338"><b>Videohallucer: Evaluating intrinsic and extrinsic hallucinations in large video-language models</b></a></li>
 <li><a href="https://arxiv.org/abs/2403.15952"><b>Illusionvqa: A challenging optical illusion dataset for vision language models</b></a></li>
@@ -150,7 +150,7 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h3 id="tasks" align="center"> 🫐Tasks </h3>
 
-<h4 id="mrag"> Multimodal Retrieval Augmented Generation </h4>
+<h4 id="mrag"> 1. Multimodal Retrieval Augmented Generation </h4>
 <h5> Knowledge Retrieval </h5>
 <ul>
 <li><a href="https://arxiv.org/abs/2102.05918"><b>Scaling up visual and vision-language representation learning with noisy text supervision</b></a></li>
@@ -175,24 +175,21 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h5> Knowledge Reranking </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2407.00978"><b>Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.12866"><b>How does the textual information affect the retrieval of multimodal in-context learning?</b></a></li>
+<li><a href="https://aclanthology.org/2024.emnlp-main.62/"><b>Rule: Reliable multimodal rag for factuality in medical vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2303.00534"><b>Ramm: Retrieval-augmented biomedical visual question answering with multi-modal pre-training</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.04695"><b>Re-ranking the Context for Multimodal Retrieval Augmented Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.03995"><b>Rag-check: Evaluating multimodal retrieval augmented generation performance</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.15041"><b>mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA</b></a></li>
+<li><a href="https://aclanthology.org/2024.emnlp-industry.75/"><b>OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.00789"><b>Retrieval-augmented egocentric video captioning</b></a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3626772.3657740"><b>LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.16855"><b>GME: Improving Universal Multimodal Retrieval by Multimodal LLMs</b></a></li>
+<li><a href="https://ieeexplore.ieee.org/document/10535103/"><b>UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.02571"><b>Mm-embed: Universal multimodal retrieval with multimodal llms</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.00332"><b>MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.12735"><b>EchoSight: Advancing Visual-Language Models with Wiki Knowledge</b></a></li>
 </ul>
 
 <h5> Knowledge Utilization </h5>
@@ -217,32 +214,32 @@ Through this survey, we aim to underscore the transformative potential of extern
 <li><a href=""><b></b></a></li>
 </ul>
 
-<h4 id="mr"> Multimodal Reasoning </h4>
+<h4 id="mr"> 2. Multimodal Reasoning </h4>
 <ul>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 </ul>
 
-<h4 id="mh"> Multimodal Hallucination </h4>
+<h4 id="mh"> 3. Multimodal Hallucination </h4>
 
-<h4 id="ms"> Multimodal Safety </h4>
+<h4 id="ms"> 4. Multimodal Safety </h4>
 
-<h4 id="ma"> Multimodal Agents </h4>
+<h4 id="ma"> 5. Multimodal Agents </h4>
 
-<h4 id="vp"> Video Perception </h4>
+<h4 id="vp"> 6. Video Perception </h4>
 
 
 
 <h3 id="evaluation" align="center"> 🍒Evaluation </h3>
 
-<h4 id="ke"> Keyword Extraction </h4>
+<h4 id="ke"> 1. Keyword Extraction </h4>
 
-<h4 id="ee"> Embedding-based Evaluation </h4>
+<h4 id="ee"> 2. Embedding-based Evaluation </h4>
 
-<h4 id="me"> MLLM-based Evaluation </h4>
+<h4 id="me"> 3. MLLM-based Evaluation </h4>
 
-<h4 id="ep"> Evaluation Platform </h4>
+<h4 id="ep"> 4. Evaluation Platform </h4>
 
 
 <h3 id="rs" align="center"> 🥭Related Surveys </h3>
