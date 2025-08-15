@@ -103,13 +103,59 @@ Through this survey, we aim to underscore the transformative potential of extern
 </ul>    
 
 <h4 id="annotation"> Data Annotation </h4>
+<ul>
+<li><a href="https://arxiv.org/abs/2406.14056"><b>Vga: Vision gui assistant-minimizing hallucinations through image-centric fine-tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.02904"><b>ALOHa: A new measure for hallucination in captioning models</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.11116"><b>Phd: A chatgpt-prompted visual hallucination evaluation dataset</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.15721"><b>Hal-eval: A universal and fine-grained hallucination evaluation framework for large vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.03190"><b>Unified hallucination detection for multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.03631"><b>Mitigating open-vocabulary caption hallucinations</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.02219"><b>Behind the magic, merlim: Multi-modal evaluation benchmark for large image-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.16479"><b>Mitigating hallucination in visual language models with visual supervision</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.09121"><b>Mmrel: A relation understanding dataset and benchmark in the mllm era</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.01779"><b>HallE-Control: controlling object hallucination in large multimodal models</b></a></li>
+<li><a href="https://arxiv.org/abs/2308.15126"><b>Evaluation and analysis of hallucination in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2305.10355"><b>Evaluating object hallucination in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.16375"><b>List items one by one: A new data source and learning paradigm for multimodal llms</b></a></li>
+<li><a href="https://arxiv.org/abs/2308.06394"><b>Detecting and preventing hallucinations in large vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.20622"><b>Towards a Systematic Evaluation of Hallucinations in Large-Vision Language Models</b></a></li>
+<li><a href="https://papers.nips.cc/paper/4470-im2text-describing-images-using-1-million-captioned-photographs"><b>Im2text: Describing images using 1 million captioned photographs</b></a></li>
+<li><a href="https://arxiv.org/abs/2209.06794"><b>Pali: A jointly-scaled multilingual language-image model</b></a></li>
+</ul>
 
 <h4 id="cleaning"> Data Cleaning </h4>
+<ul>
+<li><a href="https://arxiv.org/abs/2406.16338"><b>Videohallucer: Evaluating intrinsic and extrinsic hallucinations in large video-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.15952"><b>Illusionvqa: A challenging optical illusion dataset for vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.08542"><b>AIGCs confuse AI too: Investigating and explaining synthetic image-induced hallucinations in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2306.14565"><b>Mitigating hallucination in large multi-modal models via robust instruction tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.15683"><b>Visual description grounding reduces hallucinations and boosts reasoning in lvlms</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.03735"><b>Vidhalluc: Evaluating temporal hallucinations in multimodal large language models for video understanding</b></a></li>
+<li><a href="https://aclanthology.org/P18-1238/"><b>Conceptual captions: A cleaned, hypernymed, image alt-text dataset for automatic image captioning</b></a></li>
+<li><a href="https://arxiv.org/abs/2210.08402"><b>Laion-5b: An open large-scale dataset for training next generation image-text models</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.14108"><b>Datacomp: In search of the next generation of multimodal datasets</b></a></li>
+<li><a href="https://github.com/kakaobrain/coyo-dataset"><b>COYO-700M: Image-Text Pair Dataset</b></a></li>
+<li><a href="https://arxiv.org/abs/2306.16527"><b>Obelics: An open web-scale filtered dataset of interleaved image-text documents</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.06939"><b>Multimodal c4: An open, billion-scale corpus of images interleaved with text</b></a></li>
+<li><a href="https://arxiv.org/abs/2202.06767"><b>Wukong: A 100 million large-scale chinese cross-modal pre-training benchmark</b></a></li>
+<li><a href="https://arxiv.org/abs/2103.01913"><b>Wit: Wikipedia-based image text dataset for multimodal multilingual machine learning</b></a></li>
+<li><a href="https://arxiv.org/abs/2102.08981"><b>Conceptual 12m: Pushing web-scale image-text pre-training to recognize long-tail visual concepts</b></a></li>
+<li><a href="https://arxiv.org/abs/1801.08163"><b>Dvqa: Understanding data visualizations via question answering</b></a></li>
+<li><a href="https://arxiv.org/abs/2111.11431"><b>Redcaps: Web-curated image-text data created by the people, for the people</b></a></li>
+<li><a href="https://aclanthology.org/2024.acl-long.775"><b>Multimodal arxiv: A dataset for improving scientific comprehension of large vision-language models</b></a></li>
+</ul>
+
+
 
 
 <h3 id="tasks" align="center"> Tasks </h3>
 
 <h4 id="mrag"> Multimodal Retrieval Augmented Generation </h4>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
 
 <h4 id="mr"> Multimodal Reasoning </h4>
 
