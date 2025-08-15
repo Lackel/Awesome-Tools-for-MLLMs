@@ -79,7 +79,29 @@ Through this survey, we aim to underscore the transformative potential of extern
 </ul>
 
 <h4 id="synthesis"> Data Synthesis </h4>
-<li><a href=""><b></b></a></li>
+<ul>
+<li><a href="https://arxiv.org/abs/2410.09962"><b>Longhalqa: Long-context hallucination evaluation for multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.10900"><b>Autohallusion: Automatic generation of hallucination benchmarks for vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.05256"><b>Throne: An object-based hallucination benchmark for the free-form generations of large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.11116"><b>Phd: A chatgpt-prompted visual hallucination evaluation dataset</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.08542"><b>AIGCs confuse AI too: Investigating and explaining synthetic image-induced hallucinations in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.14683"><b>Visual hallucinations of multi-modal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.13220"><b>How easy is it to fool your multimodal llms? an empirical analysis on deceptive prompts</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.03631"><b>Mitigating open-vocabulary caption hallucinations</b></a></li>
+<li><a href="https://aclanthology.org/2024.emnlp-main.904/"><b>The Instinctive Bias: Spurious Images lead to Illusion in MLLMs</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.01701"><b>Mitigating fine-grained hallucination by fine-tuning large vision-language models with caption rewrites</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.05338"><b>Negative object presence evaluation (nope) to measure object hallucination in vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2306.14565"><b>Mitigating hallucination in large multi-modal models via robust instruction tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.02301"><b>Ciem: Contrastive instruction evaluation method for better instruction tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.00569"><b>Investigating and mitigating the multimodal hallucination snowballing in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.10665"><b>Silkie: Preference distillation for large visual language models</b></a></li>
+<li><a href="https://aclanthology.org/2024.acl-long.775"><b>Multimodal arxiv: A dataset for improving scientific comprehension of large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/1801.08163"><b>Dvqa: Understanding data visualizations via question answering</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.09121"><b>Mmrel: A relation understanding dataset and benchmark in the mllm era</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.08485"><b>Visual Instruction Tuning</b></a></li>
+<li><a href="https://aclanthology.org/2024.emnlp-main.1016/"><b>Investigating and mitigating object hallucinations in pretrained vision-language (clip) models</b></a></li>
+</ul>    
+
 <h4 id="annotation"> Data Annotation </h4>
 
 <h4 id="cleaning"> Data Cleaning </h4>
