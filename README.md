@@ -56,6 +56,8 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h3 align="center" id="data"> 🥑Data </h3>
 
+![](/assets/data.png)
+
 <h4 id="collection"> 1. Data Collection </h4>
 <ul>
 <li><a href="https://arxiv.org/abs/2402.14683"><b>Visual hallucinations of multi-modal large language models</b></a></li>
@@ -481,6 +483,8 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h3 id="evaluation" align="center"> 🍒Evaluation </h3>
 
+![](/assets/evaluation.png)
+
 <h4 id="ke"> 1. Keyword Extraction </h4>
 <ul>
 <li><a href="https://arxiv.org/abs/2410.23114"><b>Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models</b></a></li>
@@ -548,5 +552,14 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 
 <h3 id="rs" align="center"> 🥭Related Surveys </h3>
+<ul>
+<li><a href="https://github.com/jinbo0906/Awesome-MLLM-Datasets"><b>Awesome-MLLM-Datasets</b></a></li> 
+<li><a href="https://arxiv.org/abs/2502.08826"><b>Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.12605"><b>Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.18930"><b>Hallucination of Multimodal Large Language Models: A Survey</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.14881"><b>A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations</b></a></li> 
+<li><a href="https://arxiv.org/abs/2402.15116"><b>Awesome Large Multimodal Agents</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.15296"><b>MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs</b></a></li>
+</ul>
 
 <h2 align="center"> 📚 Citation 📚</h2>
