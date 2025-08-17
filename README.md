@@ -1,6 +1,6 @@
 <h1 align="center">✨✨✨ Empowering MLLMs with External Tools: A Survey ✨✨✨</h1>
 
-<p align="center"><em>Curated list of empowering Multimodal Large Language Models (MLLMs) with external tools, from the perspectives of </em><br><strong>Data, Tasks, and Evaluation. </strong> (🚧 Under Construction)</p>
+<p align="center"><em>Curated list of empowering Multimodal Large Language Models (MLLMs) with external tools, from the perspectives of </em><br><strong>Data, Tasks, and Evaluation. </strong></p>
 
 <p align="center">
     <a href="https://arxiv.org/abs/2502.14881"><img src="https://img.shields.io/badge/arXiv-2502.14881-b31b1b.svg" alt="arXiv Badge"></a>
