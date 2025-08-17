@@ -274,27 +274,94 @@ Through this survey, we aim to underscore the transformative potential of extern
 <h4 id="mh"> 3. Multimodal Hallucination </h4>
 <h5> Hallucination Cause Analysis </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2305.10355"><b>Evaluating object hallucination in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.06775"><b>Delve into visual contrastive decoding for hallucination mitigation of large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.03735"><b>Vidhalluc: Evaluating temporal hallucinations in multimodal large language models for video understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.02946"><b>Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.14492"><b>Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.16724"><b>Devils in middle layers of large vision-language models: Interpreting, detecting and mitigating object hallucinations via attention lens</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.20034"><b>Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.12591"><b>Thinking before looking: Improving multimodal llm reasoning via mitigating visual hallucination</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.14484"><b>Effectively Enhancing Vision Language Large Models by Prompt Augmentation and Caption Utilization</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.20505"><b>Interpreting and mitigating hallucination in mllms through multi-agent debate</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.16033"><b>Cantor: Inspiring multimodal chain-of-thought of mllm</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.11129"><b>Fact: Teaching mllms with faithful, concise and transferable rationales</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.13513"><b>What if...?: Thinking counterfactual keywords helps to mitigate hallucination in large multi-modal models</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.00361"><b>Octopus: Alleviating hallucination via dynamic contrastive decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.11242"><b>Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2308.15126"><b>Evaluation and analysis of hallucination in large vision-language models</b></a></li>
 </ul>
 
 <h5> Hallucination Detection </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2411.18659"><b>DHCP: Detecting Hallucinations by Cross-modal Attention Pattern in Large Vision-Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.11919"><b>VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.16494"><b>A Unified Hallucination Mitigation Framework for Large Vision-Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.07362"><b>Volcano: mitigating multimodal hallucination through self-feedback guided revision</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.19752"><b>Visual fact checker: enabling high-fidelity detailed caption generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.14233"><b>Detecting and mitigating hallucination in large vision language models via fine-grained ai feedback</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.10332"><b>Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.05046"><b>Fgaif: Aligning large vision-language models with fine-grained ai feedback</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.15300"><b>Seeing is believing: Mitigating hallucination in large vision-language models via clip-guided decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.20034"><b>Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.11622"><b>Logical closed loop: Uncovering object hallucinations in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.07772"><b>Eazy: Eliminating hallucinations in lvlms by zeroing out hallucinatory image tokens</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.09801"><b>Efuf: Efficient fine-grained unlearning framework for mitigating hallucinations in multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.16839"><b>Beyond hallucinations: Enhancing lvlms through hallucination-aware direct preference optimization</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.13614"><b>Hallucidoctor: Mitigating hallucinatory toxicity in visual instruction data</b></a></li>
+<li><a href="https://arxiv.org/abs/2306.14565"><b>Mitigating hallucination in large multi-modal models via robust instruction tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.00361"><b>Octopus: Alleviating hallucination via dynamic contrastive decoding</b></a></li>
 </ul>
 
 
 <h5> Hallucination Mitigation </h5>
 <ul>
+<li><a href="https://arxiv.org/abs/2311.16479"><b>Mitigating hallucination in visual language models with visual supervision</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.11124"><b>Combating Multimodal LLM Hallucination via Bottom-Up Holistic Reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.12713"><b>CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.15778"><b>Reducing hallucinations in vision-language models via latent space steering</b></a></li>
+<li><a href="https://arxiv.org/abs/2408.00555"><b>Alleviating hallucination in large vision-language models with active retrieval augmentation</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.03314v1/"><b>BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.02352"><b>Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.12718"><b>Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.20081"><b>NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.00425"><b>Halc: Object hallucination reduction via adaptive focal-contrast decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.13321"><b>Mitigating hallucinations in large vision-language models via summary-guided decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.16045"><b>Woodpecker: Hallucination correction for multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2501.02699"><b>EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.11622"><b>Logical closed loop: Uncovering object hallucinations in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.15300"><b>Seeing is believing: Mitigating hallucination in large vision-language models via clip-guided decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.20034"><b>Vision-Encoders (Already) Know What They See: Mitigating Object Hallucination via Simple Fine-Grained CLIPScore</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.14525"><b>Aligning large multimodal models with factually augmented rlhf</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.10436"><b>Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.02712"><b>V-dpo: Mitigating hallucination in large vision language models via vision-guided direct preference optimization</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.20429"><b>HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with Vision-enhanced Penalty Decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2408.10433"><b>Clip-dpo: Vision-language models as a source of preference for fixing hallucinations in lvlms</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.11422"><b>Reflective instruction tuning: Mitigating hallucinations in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.11451"><b>CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.17220"><b>Rlaif-v: Open-source ai feedback leads to super gpt-4v trustworthiness</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.11411"><b>Aligning modalities in vision large language models via preference fine-tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.06968"><b>Hallucination augmented contrastive learning for multimodal large language model</b></a></li>
+</ul>
+
+<h4 id="ms"> 4. Multimodal Safety </h4>
+
+<h5> Attack </h5>
+<ul>
+<li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 </ul>
 
-<h4 id="ms"> 4. Multimodal Safety </h4>
+<h5> Defense </h5>
+<ul>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+</ul>
+
 
 <h4 id="ma"> 5. Multimodal Agents </h4>
 
