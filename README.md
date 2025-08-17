@@ -150,6 +150,8 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h3 id="tasks" align="center"> 🫐Tasks </h3>
 
+![](/assets/tasks.png)
+
 <h4 id="mrag"> 1. Multimodal Retrieval Augmented Generation </h4>
 <h5> Knowledge Retrieval </h5>
 <ul>
@@ -348,26 +350,125 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h5> Attack </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2305.16934"><b>On evaluating adversarial robustness of large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.00236"><b>Image hijacks: Adversarial images can control generative models at runtime</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.11751"><b>How robust is google's bard to adversarial image attacks?</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.05608"><b>Figstep: Jailbreaking large vision-language models via typographic visual prompts</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.01886"><b>Instructta: Instruction-tuned targeted attack for large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.11170"><b>Inducing high energy-latency of large vision-language models with verbose images</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.00626"><b>Vision-llms can fool themselves with self-generated typographic attacks</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.02309"><b>Jailbreaking attack against multimodal large language model</b></a></li>
+<li><a href="https://arxiv.org/abs/2507.02844"><b>Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.06659"><b>Shadowcast: Stealthy data poisoning attacks against vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.12916"><b>Physical backdoor attack can jeopardize driving with vision-large-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.20773"><b>Visual-roleplay: Universal jailbreak attack on multimodal large language models via role-playing image character</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.04031"><b>Jailbreak vision language models via bi-modal adversarial prompt</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.00827"><b>IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves</b></a></li>
+<li><a href="https://arxiv.org/abs/2412.05934"><b>Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.16023"><b>Badtoken: Token-level backdoor attacks to multi-modal large language models</b></a></li>
 </ul>
 
 <h5> Defense </h5>
+<ul>
+<li><a href="https://arxiv.org/abs/2311.10081"><b>Dress: Instructing large vision-language models to align and interact with humans via natural language feedback</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.02906"><b>Mllm-protector: Ensuring mllm's safety without hurting performance</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.09513"><b>Adashield: Safeguarding multimodal large language models from structure-based attack via adaptive shield prompting</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.13581"><b>Safety alignment for vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.09250"><b>Mirrorcheck: Efficient adversarial defense for vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.21659"><b>Cross-modality information check for detecting jailbreaking in multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.05076"><b>Pip: Detecting adversarial examples in large vision-language models via attention patterns of irrelevant probe questions</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.00296"><b>Vlmguard: Defending vlms against malicious prompts via unlabeled data</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.06625"><b>ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.20971"><b>Bluesuffix: Reinforced blue teaming for vision-language models against jailbreak attacks</b></a></li>
+<li><a href="https://arxiv.org/abs/2411.18688"><b>Immune: Improving safety against jailbreaks in multi-modal llms via inference-time alignment</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.11455"><b>Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training</b></a></li>
+<li><a href="https://arxiv.org/abs/2502.12562"><b>Sea: Low-resource safety alignment for multimodal large language models via synthetic embeddings</b></a></li>
+<li><a href="https://arxiv.org/abs/2504.12661"><b>VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization</b></a></li>
+<li><a href="https://arxiv.org/abs/2506.04704"><b>HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model</b></a></li>
+</ul>
+
+
+<h4 id="ma"> 5. Multimodal Agents </h4>
+<h5> Closed-source Agents </h5>
+<ul>
+<li><a href="https://arxiv.org/abs/2309.17428"><b>Craft: Customizing llms by creating and retrieving from specialized toolsets</b></a></li>
+<li><a href="https://arxiv.org/abs/2303.08128"><b>Vipergpt: Visual inference via python execution for reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.10908"><b>Clova: A closed-loop visual assistant with tool usage and update</b></a></li>
+<li><a href="https://arxiv.org/abs/2303.17580"><b>Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.09842"><b>Chameleon: Plug-and-play compositional reasoning with large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2303.04671"><b>Visual chatgpt: Talking, drawing and editing with visual foundation models</b></a></li>
+<li><a href="https://arxiv.org/abs/2306.08640"><b>Assistgpt: A general multi-modal assistant that can plan, execute, inspect, and learn</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.00887"><b>Grid: A platform for general robot intelligence development</b></a></li>
+<li><a href="https://arxiv.org/abs/2307.07162"><b>Drive like a human: Rethinking autonomous driving with large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.13108"><b>Assistgui: Task-oriented desktop graphical user interface automation</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.11954"><b>Musicagent: An ai agent for music understanding and generation with large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.12995"><b>Audiogpt: Understanding and generating speech, music, sound, and talking head</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.07061"><b>Droidbot-gpt: Gpt-powered ui automation for android</b></a></li>
+<li><a href="https://arxiv.org/abs/2302.01560"><b>Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.03186"><b>Cradle: Empowering foundation agents towards general computer control</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.16158"><b>Mobile-agent: Autonomous multi-modal mobile device agent with visual perception</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.01614"><b>Gpt-4v (ision) is a generalist web agent, if grounded</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.08392"><b>Doraemongpt: Toward understanding dynamic scenes with large language models (exemplified as a video agent)</b></a></li>
+<li><a href="https://arxiv.org/abs/2304.14407"><b>Chatvideo: A tracklet-centric multimodal and versatile video understanding system</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.13771"><b>Appagent: Multimodal agents as smartphone users</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.07562"><b>Gpt-4v in wonderland: Large multimodal models for zero-shot smartphone gui navigation</b></a></li>
+<li><a href="https://arxiv.org/abs/2307.14335"><b>Wavjourney: Compositional audio creation with large language models</b></a></li>
+</ul>
+
+<h5> Open-source Agents </h5>
+<ul>
+<li><a href="https://arxiv.org/abs/2311.00571"><b>Llava-interactive: An all-in-one demo for image chat, segmentation, generation and editing</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.05997"><b>Jarvis-1: Open-world multi-task agents with memory-augmented multimodal language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.15209"><b>See and think: Embodied agent in virtual environment</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.16714"><b>Embodied multi-modal agent trained by an llm from a parallel textworld</b></a></li>
+<li><a href="https://arxiv.org/abs/2401.10727"><b>Mllm-tool: A multimodal large language model for tool agent learning</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.05437"><b>Llava-plus: Learning to use tools for creating multimodal agents</b></a></li>
+<li><a href="https://arxiv.org/abs/2305.18752"><b>Gpt4tools: Teaching large language model to use tools via self-instruction</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.16042"><b>Webwise: Web interface control and sequential exploration with large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.11436"><b>You only look at screens: Multimodal chain-of-action agents</b></a></li>
+</ul>
+
+
+
+<h4 id="vp"> 6. Video Perception </h4>
+
+<h5> Temporal Grounding </h5>
+<ul>
+<li><a href="https://arxiv.org/abs/2408.16219"><b>Training-free video temporal grounding using large-scale pre-trained models</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.12813"><b>Chatvtg: Video temporal grounding via chat with video dialogue large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.11435"><b>Momentor: Advancing video large language model with fine-grained temporal reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.13382"><b>Vtg-llm: Integrating timestamp knowledge into video llms for enhanced video temporal grounding</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.18111"><b>Et bench: Towards open-ended event-level video-language understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.05643"><b>Trace: Temporal grounding video llm via causal event modeling</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.13444"><b>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.13377"><b>Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding</b></a></li>
+<li><a href="https://arxiv.org/abs/2504.06958"><b>Videochat-r1: Enhancing spatio-temporal perception via reinforcement fine-tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2505.20715"><b>MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding</b></a></li>
+</ul>
+
+<h5> Dense Captioning </h5>
+<ul>
+<li><a href="https://arxiv.org/abs/2405.13382"><b>Vtg-llm: Integrating timestamp knowledge into video llms for enhanced video temporal grounding</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.18111"><b>Et bench: Towards open-ended event-level video-language understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.05643"><b>Trace: Temporal grounding video llm via causal event modeling</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.13444"><b>VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.13377"><b>Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding</b></a></li>
+<li><a href="https://arxiv.org/abs/2504.06958"><b>Videochat-r1: Enhancing spatio-temporal perception via reinforcement fine-tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2505.20715"><b>MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding</b></a></li>
+<li><a href="http://www.arxiv.org/abs/2506.09079"><b>VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks</b></a></li>
+<li><a href="https://arxiv.org/abs/2506.01725"><b>VideoCap-R1: Enhancing MLLMs for Video Captioning via Structured Thinking</b></a></li>
+<li><a href="https://arxiv.org/abs/2506.05302"><b>Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos</b></a></li>
+</ul>
+
+<h5> Question Answering </h5>
 <ul>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
 <li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
+<li><a href=""><b></b></a></li>
 </ul>
-
-
-<h4 id="ma"> 5. Multimodal Agents </h4>
-
-<h4 id="vp"> 6. Video Perception </h4>
-
-
 
 <h3 id="evaluation" align="center"> 🍒Evaluation </h3>
 
