@@ -462,23 +462,89 @@ Through this survey, we aim to underscore the transformative potential of extern
 
 <h5> Question Answering </h5>
 <ul>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
-<li><a href=""><b></b></a></li>
+<li><a href="https://arxiv.org/abs/2404.06511"><b>Morevqa: Exploring modular reasoning models for video question answering</b></a></li>
+<li><a href="http://www.arxiv.org/abs/2506.09079"><b>VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks</b></a></li>
+<li><a href="https://arxiv.org/abs/2506.07464"><b>DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.09418"><b>Videogpt+: Integrating image and video encoders for enhanced video understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.01476"><b>Traveler: A modular multi-lmm agent framework for video question-answering</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.11481"><b>Videoagent: A memory-augmented multimodal agent for video understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2506.18071"><b>MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering</b></a></li>
+<li><a href="https://arxiv.org/abs/2506.05302"><b>Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.14622"><b>Language repository for long video understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2503.08585"><b>Hierarq: Task-aware hierarchical q-former for enhanced video understanding</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.16998"><b>Understanding long videos with multimodal language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.17235"><b>A simple llm framework for long-range video question-answering</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.09396"><b>Too many frames, not all useful: Efficient strategies for long-form video qa</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.16620"><b>Omagent: A multi-modal agent framework for complex video understanding with task divide-and-conquer</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.12846"><b>DrVideo: Document Retrieval Based Long Video Understanding</b></a></li>
 </ul>
 
 <h3 id="evaluation" align="center"> 🍒Evaluation </h3>
 
 <h4 id="ke"> 1. Keyword Extraction </h4>
+<ul>
+<li><a href="https://arxiv.org/abs/2410.23114"><b>Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.02219"><b>Behind the magic, merlim: Multi-modal evaluation benchmark for large image-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.07397"><b>Amber: An llm-free multi-dimensional benchmark for mllms hallucination evaluation</b></a></li>
+<li><a href="https://arxiv.org/abs/cs/0205028"><b>Nltk: The natural language toolkit</b></a></li>
+<li><a href="https://aclanthology.org/H92-1116/"><b>WordNet: a lexical database for English</b></a></li>
+<li><a href="https://spacy.io/"><b>spaCy: Industrial-strength natural language processing in python</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.01477"><b>FaithScore: Fine-grained Evaluations of Hallucinations in Large Vision-Language Models</b></a></li>
+<li><a href="https://aclanthology.org/W15-2812/"><b>Generating semantically precise scene graphs from textual descriptions for improved image retrieval</b></a></li>
+<li><a href="https://aclanthology.org/P03-1054/"><b>Accurate unlexicalized parsing</b></a></li>
+<li><a href="https://arxiv.org/abs/1607.08822"><b>Spice: Semantic propositional image caption evaluation</b></a></li>
+<li><a href="https://arxiv.org/abs/2408.08067"><b>Ragchecker: A fine-grained framework for diagnosing retrieval-augmented generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.15680"><b>Haloquest: A visual hallucination dataset for advancing multimodal reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.13874"><b>Valor-eval: Holistic coverage and faithfulness evaluation of large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.03631"><b>Mitigating open-vocabulary caption hallucinations</b></a></li>
+<li><a href="https://aclanthology.org/2024.acl-long.775"><b>Multimodal arxiv: A dataset for improving scientific comprehension of large vision-language models</b></a></li>
+</ul>
+
 
 <h4 id="ee"> 2. Embedding-based Evaluation </h4>
+<ul>
+<li><a href="https://arxiv.org/abs/2410.23114"><b>Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.15217"><b>Ragas: Automated evaluation of retrieval augmented generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.13612"><b>FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs</b></a></li>
+<li><a href="https://arxiv.org/abs/2409.01151"><b>Understanding Multimodal Hallucination with Parameter-Free Representation Alignment</b></a></li>
+<li><a href="https://arxiv.org/abs/2408.09429"><b>Reefknot: A comprehensive benchmark for relation hallucination evaluation, analysis and mitigation in multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.12663"><b>Do more details always introduce more hallucinations in lvlm-based image captioning?</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.10185"><b>Detecting and evaluating medical hallucinations in large vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2103.00020"><b>Learning transferable visual models from natural language supervision</b></a></li>
+<li><a href="https://arxiv.org/abs/2405.19186"><b>Metatoken: Detecting hallucination in image descriptions by meta classification</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.03631"><b>Mitigating open-vocabulary caption hallucinations</b></a></li>
+</ul>
+
 
 <h4 id="me"> 3. MLLM-based Evaluation </h4>
+<ul>
+<li><a href="https://arxiv.org/abs/2304.08485"><b>Visual Instruction Tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.23114"><b>Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.18325"><b>AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2306.14565"><b>Mitigating hallucination in large multi-modal models via robust instruction tuning</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.15217"><b>Ragas: Automated evaluation of retrieval augmented generation</b></a></li>
+<li><a href="https://arxiv.org/abs/2410.09962"><b>Longhalqa: Long-context hallucination evaluation for multimodal large language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.16922"><b>Mitigating object hallucinations in large vision-language models through visual contrastive decoding</b></a></li>
+<li><a href="https://arxiv.org/abs/2404.13874"><b>Valor-eval: Holistic coverage and faithfulness evaluation of large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.15680"><b>Haloquest: A visual hallucination dataset for advancing multimodal reasoning</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.15721"><b>Hal-eval: A universal and fine-grained hallucination evaluation framework for large vision language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2312.03631"><b>Mitigating open-vocabulary caption hallucinations</b></a></li>
+<li><a href="https://arxiv.org/abs/2310.14566"><b>Hallusionbench: an advanced diagnostic suite for entangled language hallucination and visual illusion in large vision-language models</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.12718"><b>Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention</b></a></li>
+<li><a href="https://arxiv.org/abs/2309.14525"><b>Aligning large multimodal models with factually augmented rlhf</b></a></li>
+</ul>
+
+
 
 <h4 id="ep"> 4. Evaluation Platform </h4>
+<ul>
+<li><a href="https://arxiv.org/abs/2407.11691"><b>Vlmevalkit: An open-source toolkit for evaluating large multi-modality models</b></a></li>
+<li><a href="https://arxiv.org/abs/2406.11069"><b>Wildvision: Evaluating vision-language models in the wild with human preferences</b></a></li>
+<li><a href="https://arxiv.org/abs/2407.12772"><b>LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2402.09262"><b>MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models</b></a></li>
+<li><a href="https://arxiv.org/abs/2403.17918"><b>Agentstudio: A toolkit for building general virtual agents</b></a></li>
+<li><a href="https://arxiv.org/abs/2311.16103"><b>Video-bench: A comprehensive benchmark and toolkit for evaluating video-based large language models</b></a></li>
+</ul>
 
 
 <h3 id="rs" align="center"> 🥭Related Surveys </h3>
