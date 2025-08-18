@@ -563,3 +563,13 @@ Through this survey, we aim to underscore the transformative potential of extern
 </ul>
 
 <h2 align="center"> 📚 Citation 📚</h2>
+
+```bash
+@misc{an2025empoweringmultimodalllmsexternal,
+      title={Empowering Multimodal LLMs with External Tools: A Comprehensive Survey}, 
+      author={Wenbin An and Jiahao Nie and Yaqiang Wu and Feng Tian and Shijian Lu and Qinghua Zheng},
+      year={2025},
+      eprint={2508.10955},
+      archivePrefix={arXiv},
+}
+ ```
